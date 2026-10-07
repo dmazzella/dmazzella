@@ -1,1 +1,5 @@
-### life is short, use python! 🐍
+### Implement it.
+### Describe it.
+### Find what doesn't work.
+### Improve it.
+### Repeat. 🔄
