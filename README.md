@@ -1,5 +1,5 @@
-### Implement it.
-### Describe it.
-### Find what doesn't work.
-### Improve it.
-### Repeat. 🔄
+- #### Implement it. 🚀
+- #### Describe it. 📝
+- #### Find what doesn't work. 🔍
+- #### Improve it. 📈
+- #### Repeat. 🔄
